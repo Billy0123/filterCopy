@@ -1,0 +1,6 @@
+newDirectoryName=filteredFiles
+directories: equals#startsWith#contains#endsWith#NOTStartsWith#NOTContains#NOTEndsWith (dont use ':', '!'-none)
+!#!#badanie#!#!#!#!
+files: equals#startsWith#contains#endsWith#NOTStartsWith#NOTContains#NOTEndsWith (dont use ':', '!'-none)
+!#!#OrientatRes#allOnt.txt#!#!#!
+ResultsSummary.txt#!#!#!#!#!#!
